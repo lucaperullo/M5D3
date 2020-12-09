@@ -1,0 +1,22 @@
+{
+  "name": "mfived3",
+  "version": "4.2.0",
+  "description": "uhAHHHuh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "abadabbadul": "nodemon -r dotenv/config ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.8.0",
+    "uniqid": "^5.2.0"
+  }
+}
